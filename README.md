@@ -1,2 +1,2 @@
 # interactive-ninja-quiz
-Quiz using HTML, CSS and Javascript 
+Quiz using HTML, Bootstrap and Javascript 
